@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Car", "Car.vcxproj", "{C5444653-28E7-46FA-80EC-2E551384B824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5444653-28E7-46FA-80EC-2E551384B824}.Debug|x64.ActiveCfg = Debug|x64
+		{C5444653-28E7-46FA-80EC-2E551384B824}.Debug|x64.Build.0 = Debug|x64
+		{C5444653-28E7-46FA-80EC-2E551384B824}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5444653-28E7-46FA-80EC-2E551384B824}.Debug|x86.Build.0 = Debug|Win32
+		{C5444653-28E7-46FA-80EC-2E551384B824}.Release|x64.ActiveCfg = Release|x64
+		{C5444653-28E7-46FA-80EC-2E551384B824}.Release|x64.Build.0 = Release|x64
+		{C5444653-28E7-46FA-80EC-2E551384B824}.Release|x86.ActiveCfg = Release|Win32
+		{C5444653-28E7-46FA-80EC-2E551384B824}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A05516F-9203-465A-BEB4-66D1C39A984B}
+	EndGlobalSection
+EndGlobal
